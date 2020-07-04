@@ -9,7 +9,6 @@ Kèm theo là một đoạn ngắn nói về đề bài.
 Thực hiện bởi [Tên ứng viên](https://github.com/username_ung_vien)
 
 ## Liên kết
-
 - Liên kết đề bài nếu có
 - Liên kết học liệu nếu có
 - Liên kết bài làm online nếu có
