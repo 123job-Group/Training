@@ -1,4 +1,4 @@
-# Bài tập package 1
+# Bài tập package
 Tạo 1 package có tên structure-html dùng để viết lại cấu trúc html của nội dung trong file [doc html](doc.html) vs [doc html](doc_1.html)
 
 **Mong mụốn:**
